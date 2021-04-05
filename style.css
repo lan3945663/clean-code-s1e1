@@ -62,7 +62,7 @@ h3 {
 }
 
 input,
-button{
+button {
   outline: none;
 }
 
@@ -149,7 +149,7 @@ button{
   width: 226px;
 }
 
-.task >    .task__input {
+.task > .task__input {
   width: 226px
 }
 
