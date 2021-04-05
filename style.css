@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-  .logo { text-align: center;
-}
+
+  .logo { 
+    text-align: center;
+  }
+
 }
 .app {
   display: block;
