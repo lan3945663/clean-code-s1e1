@@ -16,7 +16,10 @@ body {
 .logo .more-inf {
   font-family: fantasy, cursive;
 }
-
+h1 {
+  visibility: hidden;
+  font-size: 8px;
+}
 @media (max-width: 768px) {
 
   .logo { 
